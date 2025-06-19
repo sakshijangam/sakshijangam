@@ -8,11 +8,7 @@
 
 ## 🛠️ Technical Skills
 
-**AI/ML**  
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
 
 **Full-Stack**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
@@ -26,37 +22,31 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 
-### 2. [AI-Powered Cookbook](https://cookbook-getk.vercel.app/)
+### 1. [AI-Powered Cookbook](https://cookbook-getk.vercel.app/)
 ▶️ **React.js | Gemini AI API | Nutrition Analysis**  
 - Integrated Gemini AI for recipe generation via prompt engineering  
 - Calculated nutritional values per serving
 
+### 2. [JWT Login,Signup page] (https://github.com/sakshijangam/auth_application)
+▶️ **React.js| MongoDB | JavaScript**  
+    - Implemented JWT authentication and MongoDB backend development.
+    - Feature: Encrypted passwords after signup
+    
 ### 3. [E-Commerce Bookstore]
 ▶️ **PHP | MySQL | JavaScript**  
 - Implemented CRUD operations with JWT authentication  
 - Integrated PayPal payment gateway
 
-## 📈 GitHub Stats
+- 🔭 I’m currently working on AI Mangement Feature 
+-🌱 I’m currently learning
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+**AI/ML**  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
 
 ## 📫 Let's Connect
 - 🔍 Exploring opportunities in **AI/ML Intern** and **Full-Stack Development**  
 - 📧 Email: jangamsakshi344@gmail.com
 
-<!--
-**sakshijangam/sakshijangam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
