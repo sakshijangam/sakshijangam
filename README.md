@@ -1,11 +1,10 @@
 ## Hi there 👋
 # 👋 Hi, I'm Sakshi Jangam 
 
-**`MSc Computer Science | AI/ML Developer | Full-Stack Engineer`**  
+**`MSc Computer Science | AI/ML Intern | Full-Stack Engineer`**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](ttps://www.linkedin.com/in/sakshi-jangam-206951256/)
+
 
 ## 🛠️ Technical Skills
 
@@ -26,19 +25,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
-## 🚀 Featured Projects
 
-### 1. [Deepfake Detection System](https://github.com/yourrepo/deepfake-detection)
-▶️ **Python | TensorFlow | OpenCV**  
-- Achieved 92% accuracy in detecting manipulated media using CNN-LSTM hybrid model  
-- Optimized pipelines to reduce latency by 35%
-
-### 2. [AI-Powered Cookbook](https://github.com/yourrepo/ai-cookbook)
+### 2. [AI-Powered Cookbook](https://cookbook-getk.vercel.app/)
 ▶️ **React.js | Gemini AI API | Nutrition Analysis**  
 - Integrated Gemini AI for recipe generation via prompt engineering  
 - Calculated nutritional values per serving
 
-### 3. [E-Commerce Bookstore](https://github.com/yourrepo/bookstore)
+### 3. [E-Commerce Bookstore]
 ▶️ **PHP | MySQL | JavaScript**  
 - Implemented CRUD operations with JWT authentication  
 - Integrated PayPal payment gateway
@@ -50,9 +43,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
-- 🔍 Exploring opportunities in **AI/ML Engineering** and **Full-Stack Development**  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🔍 Exploring opportunities in **AI/ML Intern** and **Full-Stack Development**  
+- 📧 Email: jangamsakshi344@gmail.com
 
 <!--
 **sakshijangam/sakshijangam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
